@@ -1,7 +1,11 @@
 .classOne{
-    color:rgb(230, 230, 144)
+    color:rgb(153, 0, 255)
 }
 
 .body{
-background-color: rgb(223, 87, 37);
+    background-color: rgb(255, 238, 0);
+}
+
+.writing{
+    color: rgb(195, 0, 255);
 }
